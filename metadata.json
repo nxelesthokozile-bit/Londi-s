@@ -1,0 +1,8 @@
+{
+  "name": "SmartGadgets | Londiwe Nxele Portfolio",
+  "description": "Professional portfolio of Londiwe Nxele featuring SmartGadgets - an AI-powered smart gadget assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
